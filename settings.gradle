@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Hawkeye"
 include ':app'
+include ':opencv'

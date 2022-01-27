@@ -1,3 +1,4 @@
+/*
 package com.hd.Hawkeye
 
 import android.os.Bundle
@@ -35,4 +36,4 @@ fun DefaultPreview() {
     HawkeyeTheme {
         Greeting("Android")
     }
-}
+}*/
